@@ -22,7 +22,9 @@ const Contact = () => {
         <Typography variant="h4">Contact My Resturant</Typography>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem odio
-          beat
+          beatae ducimus magni nobis culpa praesentium velit expedita quae,
+          corrupti, pariatur inventore laboriosam consectetur modi impedit
+          error, repudiandae obcaecati doloribus.
         </p>
       </Box>
       <Box
